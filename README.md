@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
 <p align="center">
+  <!-- Social -->
   <a href="https://www.linkedin.com/in/javeed-shaik-8824282a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -10,29 +11,29 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
+
+  <!-- Competitive Coding (Dynamic Ratings) -->
   <a href="https://leetcode.com/u/JaveedShaik33/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/endpoint?style=flat&url=https://cp-rating-api.vercel.app/badge/leetcode/JaveedShaik33"/>
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/iamshaik33" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/endpoint?style=flat&url=https://cp-rating-api.vercel.app/badge/codechef/iamshaik33"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/javeedshaik33" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/endpoint?style=flat&url=https://cp-rating-api.vercel.app/badge/codeforces/javeedshaik33"/>
   </a>
 </p>
-
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 B.Tech CSE (AI & DS) student at **VNR VJIET, Hyderabad**
+- 🎓 B.Tech CSE (AI & DS) @ **VNR VJIET, Hyderabad**
 - 💻 Full Stack Developer Intern at **StaySync Labs**
-- 🤖 Interested in **MERN Stack, Backend Systems & Machine Learning**
+- 🤖 Interested in **Backend Systems, MERN & ML**
 - 🏆 **Finalist – JPMorgan Chase & Co. Code for Good 2025**
-- 🌱 Actively building **real-world, scalable applications**
+- 🌱 Building scalable, real-world applications
 
 ---
 
@@ -43,12 +44,12 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
 
-### Web Development
+### Web & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
 </p>
 
-### Machine Learning & Tools
+### ML & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode,jupyter" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -63,32 +64,25 @@
 **MERN | ML | Google OAuth**  
 🔗 https://staysync.io  
 
-- Role-based access (Student, Warden, Admin)
-- ML-powered insights & automation
-- Scalable production deployment
-
----
-
 ### 🛡️ MyInsurance Planner  
 **MERN | Machine Learning**  
 🔗 https://myinsurance-planner.vercel.app  
-
-- Personalized insurance recommendations
-- Secure authentication & responsive UI
-
----
 
 ### 🔑 SmartKey Management System  
 **Web App | RBAC**  
 🔗 https://keys.vjstartup.com  
 
-- Secure key issuance & tracking
-- Strong access-control design
+---
+
+## 🏅 Achievements & Highlights
+- 🏆 JPMorgan Chase & Co. **Code for Good 2025 Finalist**
+- 🥇 Top 10 – National-Level ML Challenge (Kaggle)
+- 📊 **94 Percentile in JEE Mains**
+- 👨‍💻 Team Lead in multiple hackathons
 
 ---
 
 ## 📈 Coding Profiles
-
 - **LeetCode:** JaveedShaik33  
 - **CodeChef:** iamshaik33  
 - **Codeforces:** javeedshaik33  
@@ -104,17 +98,8 @@
 
 ---
 
-## 🏅 Highlights
-
-- 🏆 JPMorgan Chase & Co. **Code for Good 2025 Finalist**
-- 🥇 Top 10 – National Level ML Challenge (Kaggle)
-- 📊 **94 Percentile in JEE Mains**
-- 👨‍💻 Built and deployed multiple production-grade apps
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=javeedshaik13&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-⭐ *Always open to internships, collaborations, and impactful projects.*
+⭐ Always open to internships, collaborations & impactful projects
