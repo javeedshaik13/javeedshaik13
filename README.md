@@ -2,12 +2,27 @@
 <h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javeed-shaik-8824282a2">LinkedIn</a> •
-  <a href="https://github.com/javeedshaik13">GitHub</a> •
-  <a href="https://leetcode.com/u/JaveedShaik33/">LeetCode</a> •
-  <a href="https://www.codechef.com/users/iamshaik33">CodeChef</a> •
-  <a href="https://codeforces.com/profile/javeedshaik33">Codeforces</a>
+  <a href="https://www.linkedin.com/in/javeed-shaik-8824282a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/javeedshaik13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/JaveedShaik33/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/iamshaik33" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/javeedshaik33" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
