@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javeed Shaik</h1>
-<h3 align="center">Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
+<h3 align="center">Full Stack Developer (MERN) | Machine Learning & Systems Enthusiast</h3>
 
 <p align="center">
   <!-- Social -->
@@ -12,7 +12,7 @@
   </a>
   &nbsp;
 
-  <!-- Competitive Coding (Dynamic Ratings) -->
+  <!-- Competitive Coding -->
   <a href="https://leetcode.com/u/JaveedShaik33/" target="_blank">
     <img src="https://img.shields.io/endpoint?style=flat&url=https://cp-rating-api.vercel.app/badge/leetcode/JaveedShaik33"/>
   </a>
@@ -31,7 +31,9 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE (AI & DS) @ **VNR VJIET, Hyderabad**
 - 💻 Full Stack Developer Intern at **StaySync Labs**
-- 🤖 Interested in **Backend Systems, MERN & ML**
+- 📱 Exploring **React Native** for cross-platform apps
+- 🤖 Passionate about **Machine Learning, Deep Learning & NLP**
+- 🏗️ Interested in **Backend Systems & System Design (LLD)**
 - 🏆 **Finalist – JPMorgan Chase & Co. Code for Good 2025**
 - 🌱 Building scalable, real-world applications
 
@@ -39,21 +41,29 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
 
-### Web & Databases
+### 🌐 Web, Mobile & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative,nodejs,express,mongodb,mysql" />
 </p>
 
-### ML & Tools
+### 🤖 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-Deep%20Learning-blue?style=flat"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
+  <img src="https://img.shields.io/badge/System%20Design-LLD-success?style=flat"/>
 </p>
 
 ---
