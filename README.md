@@ -32,7 +32,7 @@
 - 🎓 B.Tech CSE (AI & DS) @ **VNR VJIET, Hyderabad**
 - 💻 Full Stack Developer Intern at **StaySync Labs**
 - 📱 Exploring **React Native** for cross-platform apps
-- 🤖 Passionate about **Machine Learning, Deep Learning & NLP**
+- 🤖 Passionate about **Machine Learning, Deep Learning & NLP ,RAG**
 - 🏗️ Interested in **Backend Systems & System Design (LLD)**
 - 🏆 **Finalist – JPMorgan Chase & Co. Code for Good 2025**
 - 🌱 Building scalable, real-world applications
