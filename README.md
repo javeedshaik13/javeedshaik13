@@ -44,7 +44,7 @@
 * 📱 Exploring React Native for Cross-Platform Mobile Development
 * 🚀 Building scalable products with real-world impact
 * 👨‍💼 Co-Founder & Product Engineer at StaySync, serving 2000+ users
-* 🌱 Continuous learner focused on software engineering excellence
+* 🌱 Continuous learner focused on software engineering and AI
 
 ---
 
