@@ -4,7 +4,7 @@
 
 📍 Hyderabad, India
 📧 [iamshaik72@gmail.com](mailto:iamshaik72@gmail.com)
-🎓 B.Tech CSE (AI & DS) @ VNR VJIET (CGPA: 9.32)
+🎓 B.Tech CSE (AI & DS) @ VNR VJIET (CGPA: 9.27)
 🏢 Co-Founder & Product Engineer @ StaySync
 🏆 JPMorgan Chase & Co. Code for Good 2025 Finalist
 🌱 Exploring AI Agents, RAG, LLMs, System Design & React Native
